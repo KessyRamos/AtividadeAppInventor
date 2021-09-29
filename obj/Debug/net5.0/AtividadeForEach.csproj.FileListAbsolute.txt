@@ -1,0 +1,16 @@
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.exe
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.deps.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.runtimeconfig.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.runtimeconfig.dev.json
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\ref\AtividadeForEach.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\bin\Debug\net5.0\AtividadeForEach.pdb
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.csproj.AssemblyReference.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.AssemblyInfoInputs.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.AssemblyInfo.cs
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.csproj.CoreCompileInputs.cache
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\ref\AtividadeForEach.dll
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.pdb
+C:\Projetos\AMS\1ano\Semestre2\EstruturasRepeticao\ArrayColRevisao\AtividadeAppInventor\AtividadeForEach\obj\Debug\net5.0\AtividadeForEach.genruntimeconfig.cache

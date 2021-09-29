@@ -20,7 +20,7 @@ namespace ListaForEach
             {
                 Console.WriteLine(Lista);
             }
-            Console.WriteLine("");
+            
         }
     }
 }
